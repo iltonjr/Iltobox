@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Plex",
+    "color": "#212020",
+    "link": "http://127.0.0.1:32400",
+    "icon": "plex.png"
+  },
+  {
+    "title": "Sonarr",
+    "color": "#36c6f4",
+    "link": "http://127.0.0.1:8989",
+    "icon": "sonarr.png"
+  },
+  {
+    "title": "Radarr",
+    "color": "#ffc231",
+    "link": "http://127.0.0.1:7878",
+    "icon": "radarr.png"
+  },
+  {
+    "title": "Transmission",
+    "color": "#cfcfcf",
+    "link": "http://127.0.0.1:9091",
+    "icon": "transmission.png"
+  }
+]
