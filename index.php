@@ -22,7 +22,7 @@
 
             <?php foreach($items as $row){ ?>
             <div class="col-md-3 col-6">
-                <a href="<?= $row->link ?>" target="_self" class="link" title="<?= $row->title ?>">
+                <a href="<?= $row->link ?>" target="<?= (isset($row->target))?$row->target:'_self' ?>" class="link" title="<?= $row->title ?>">
                     <div class="block-item" style="background-color: <?= $row->color ?>; background-image: url('img/<?= $row->icon ?>')"></div>
                 </a>
             </div>

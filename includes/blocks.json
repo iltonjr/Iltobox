@@ -22,5 +22,26 @@
     "color": "#cfcfcf",
     "link": "http://127.0.0.1:9091",
     "icon": "transmission.png"
+  },
+  {
+    "title": "Netflix",
+    "color": "#000",
+    "link": "http://netflix.com/",
+    "icon": "netflix.png",
+    "target": "_blank"
+  },
+  {
+    "title": "HBO GO",
+    "color": "#000",
+    "link": "https://www.hbogo.com.br/",
+    "icon": "hbogo.png",
+    "target": "_blank"
+  },
+  {
+    "title": "Amazon Prime Video",
+    "color": "#00a8e0",
+    "link": "https://www.primevideo.com/",
+    "icon": "prime.svg",
+    "target": "_blank"
   }
 ]
